@@ -28,13 +28,13 @@ module.exports = {
       ],
     },
     feed: {
-      canonical_base: 'http://kokorice.org',
+      canonical_base: 'https://kokorice.org',
       rss: true,
       atom: true,
       json: true
     },
     sitemap: {
-      hostname: "http://kokorice.org/"
+      hostname: "https://kokorice.org/"
     }
   },
   plugins: [
