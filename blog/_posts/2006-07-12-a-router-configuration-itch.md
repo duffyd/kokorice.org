@@ -1,0 +1,11 @@
+---
+date: '2006-07-12'
+author: duffyd
+title: A Router Configuration Itch
+tags:
+  - technical-info
+---
+
+In New Zealand, due to our older telecommunications infrastructure, many people are using [ADSL](https://href.li/?http://en.wikipedia.org/wiki/ADSL) for their broadband internet connections, which uses the older copper-based telephone lines for transmission. This means slower speeds and in my case problematic internet configurations.
+Specifically, I was trying to setup a [web server](https://href.li/?http://plone.org) that could be accessed over the internet. Our network configuration at work is as follows: we have an ADSL router with 2 network interfaces, a WAN interface (which we’ll call r-eth0) and a LAN interface (which we’ll call r-eth1). We also have a [m0n0wall](https://href.li/?http://www.m0n0.ch/wall/) firewall with 2 interfaces, which we’ll call fw-eth0 and fw-eth1. r-eth0 has a public internet address (assigned by the ISP), both r-eth1 and fw-eth0 are on the same subnet, and fw-eth1 is connected to our internal company network (a separate subnet). The web server is on the same subnet as fw-eth1 (our internal company network), and NAT is enabled on the ADSL router and is port-forwarding web traffic ([TCP Port 80](https://href.li/?http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#.28Common.29_Ports_0_to_1023)) through to the IP address of the web server.
+The problem was that when people would try and open a website on the web server, it would just sit there and eventually timeout. The m0n0wall firewall logs indicated that the web traffic was successfully getting to the web server but traffic from the web server back out to the internet was being blocked. This was when I worked out that the cause of the problem was the firewall. A big thanks to **Kent Brown Lee** of **Connect Logic** here as he spent a lot of time helping me resolve this problem and eventually determined that as the m0n0wall firewall has inbuilt [NAT](https://href.li/?http://en.wikipedia.org/wiki/Network_address_translation), the outbound connections from the web server were being ‘double-NATed’. To stop this occuring we turned on 'Advanced Outbound NAT’ on the m0n0wall firewall and now people can access the website over the internet.

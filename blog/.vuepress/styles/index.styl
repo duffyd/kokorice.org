@@ -1,0 +1,36 @@
+/**
+ * Custom Styles here.
+ *
+ * ref：https://v1.vuepress.vuejs.org/config/#index-styl
+ */
+
+@import '~prismjs/themes/prism.css'
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap')
+@require 'palette'
+
+.home .hero img
+  max-width 450px!important
+
+.header-wrapper .title a
+  font-family 'Kaushan Script', cursive
+  text-transform none
+  font-size 50px
+  letter-spacing normal
+  color $primaryColor
+
+.ui-post-title a
+.vuepress-blog-theme-content h1
+.nav-link
+h1
+h2
+  color $primaryColor !important
+
+.nav-link
+  font-weight bold
+
+.footer
+  background-image url('/footer.png')
+  background-repeat repeat-x
+
+.footer .footer-right-wrap .copyright .copyright-item .nav-link
+  color white !important
