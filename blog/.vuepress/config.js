@@ -63,7 +63,7 @@ module.exports = {
             const dayjs = require('dayjs')
             const prevTime = dayjs(prev.frontmatter.createdAt)
             const nextTime = dayjs(next.frontmatter.createdAt)
-            return prevTime - nextTime > 0 ? -1 : 1
+            return prevTime - nextTime > 0 ? 1 : -1
           }
         }
       }
