@@ -41,6 +41,12 @@ module.exports = {
     ['migrate', require('../build/migrate')],
     ['@vuepress/back-to-top'],
     ['@vuepress/active-header-links'],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'G-1S6QHTZ327' 
+      }
+    ],
     ['@vuepress/blog',
       {
         frontmatters: [
