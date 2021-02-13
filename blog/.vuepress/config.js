@@ -73,6 +73,7 @@ module.exports = {
           }
         }
       }
-    ]
+    ],
+    ['@vuepress/last-updated', false]
   ]
 }
