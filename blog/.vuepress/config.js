@@ -4,7 +4,7 @@ module.exports = {
   head: [
     ['link', {rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico'}]
   ],
-  theme: '@vuepress/theme-blog',
+  //theme: '@vuepress/theme-blog',
   themeConfig: {
     sidebar: [
       ['http://www.jw.org', 'jw.org']
@@ -38,7 +38,7 @@ module.exports = {
     }
   },
   plugins: [
-    ['migrate', require('../build/migrate')],
+    //['migrate', require('../build/migrate')],
     ['@vuepress/back-to-top'],
     ['@vuepress/active-header-links'],
     [
@@ -74,6 +74,9 @@ module.exports = {
         }
       }
     ],
-    ['@vuepress/last-updated', false]
+    ['@vuepress/last-updated', false],
+    ['reading-time'],
+    ['reading-progress'],
+    ['flexSearch']
   ]
 }

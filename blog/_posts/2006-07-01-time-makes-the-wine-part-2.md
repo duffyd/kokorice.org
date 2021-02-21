@@ -10,7 +10,7 @@ Following on from my previous entry - the homebrew brewed out in about 4 days. M
 
 From here we performed the following steps:
 
-1. Check all the bottles for mould by pearing inside the neck of the bottles. It is important to check not only the bottom of the bottle but also the sides as mould can ruin your beer.
+1. Check all the bottles for mould by peering inside the neck of the bottles. It is important to check not only the bottom of the bottle but also the sides as mould can ruin your beer.
 2. Use a ratio of 1 teaspoon of sterilisation powder to 1 litre of water and pour the liquid via a funnel into each bottle. Then rinse the bottles out with water.
 
 3. To initiate the second fermentation process, put 1 level teaspoon of sugar in each bottle. This process is where the beer gets its fizz.
