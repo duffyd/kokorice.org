@@ -7,8 +7,8 @@ tags:
 ---
 
 Decided to ‘finally’ setup an RSS feed for this website. You can point your
- [news reader](https://href.li/?http://liferea.sourceforge.net/) at
- [http://kokorice.org/blog/RSS](/rss.xml) and 'Bob’s your uncle’ you’re enjoying
+ [news reader](https://href.li/?https://netnewswire.com) at
+ [http://kokorice.org/rss.xml](/rss.xml) and 'Bob’s your uncle’ you’re enjoying
  syndicated kokorice.
 
  In Plone it is a simple case of clicking the 'Enable Syndication’ button in

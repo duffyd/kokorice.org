@@ -2,13 +2,10 @@ module.exports = {
   title: 'Kokorice',
   description: 'Fresh from the plantation',
   head: [
-    ['link', {rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico'}]
+    ['link', {rel: 'shortcut icon', type: 'image/x-icon', href: '/favicon.ico'}],
+    //['script', {src: 'http://localhost:8098'}]
   ],
-  //theme: '@vuepress/theme-blog',
   themeConfig: {
-    sidebar: [
-      ['http://www.jw.org', 'jw.org']
-    ],
     nav: [
       {text: 'Home', link: '/'},
       {text: 'Tags', link: '/tag/'},
@@ -31,7 +28,8 @@ module.exports = {
       canonical_base: 'https://kokorice.org',
       rss: true,
       atom: true,
-      json: true
+      json: true,
+      sort: entries => entries.reverse(entries.sortBy(entries, "date"))
     },
     sitemap: {
       hostname: "https://kokorice.org/"
