@@ -1,3 +1,5 @@
+const _ = require("lodash");
+
 module.exports = {
   title: 'Kokorice',
   description: 'Fresh from the plantation',
@@ -29,7 +31,7 @@ module.exports = {
       rss: true,
       atom: true,
       json: true,
-      sort: entries => entries.reverse(entries.sortBy(entries, "date"))
+      sort: entries => _.reverse(_.sortBy(entries, "date"))
     },
     sitemap: {
       hostname: "https://kokorice.org/"
