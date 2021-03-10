@@ -28,9 +28,6 @@ module.exports = {
     },
     feed: {
       canonical_base: 'https://kokorice.org',
-      rss: true,
-      atom: true,
-      json: true,
       sort: entries => _.reverse(_.sortBy(entries, "date"))
     },
     sitemap: {
