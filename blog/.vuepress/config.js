@@ -74,6 +74,6 @@ module.exports = {
     ['@vuepress/last-updated', false],
     ['reading-time'],
     ['reading-progress'],
-    ['flexSearch']
+    ['flexsearch']
   ]
 }
