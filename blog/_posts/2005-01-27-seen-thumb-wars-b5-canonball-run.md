@@ -6,7 +6,7 @@ tags:
   - general
 ---
 
-![image](https://dm2301files.storage.live.com/y4mDTIcb9uoXmDxfX9D1oWaIfOmJlUhcVe-_qnk83IspOQfpb0dcVeYL8IizXgDY2Ck5-nmuO_wKE6Qq4Hy0t3_fBqXqNiqLo8c4Oe20YX7s9d-enFT4oA4RfqlT1AEL1eaeBuZ1x0u9VRHyDnUVvf9tWrunqLlUkJ0Y5a0Q84Mr-UaEnua829993kMyomfkCsU?width=141&height=200&cropmode=none)
+![image](https://1drv.ms/i/s!AsJfVUEHse4xhCE9-7UYs1UTMMmV?embed=1&width=141&height=200)
 I got my hands on a copy of [Thumb Wars](https://href.li/?http://en.wikipedia.org/wiki/Thumb_Wars) the other day from a friend. I am an avid [Star Wars](https://href.li/?http://en.wikipedia.org/wiki/Star_Wars) fan, and I have seen a few [Star Wars Fan Films](https://href.li/?http://atomfilms.shockwave.com/af/spotlight/collections/starwars/) but this has to take the cake. The director, [Steve Oedekerk](https://href.li/?http://en.wikipedia.org/wiki/Steve_Oedekerk),
 has gone to great pains in the special effects, animation, and gags to
 make this movie a real classic (a small disclaimer: I haven’t seen the

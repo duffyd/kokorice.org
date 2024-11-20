@@ -7,4 +7,4 @@ tags:
   - kiwipycon
 ---
 
-![image](https://dm2301files.storage.live.com/y4mPRNRvpZDlwrPFV7z5YRGvss-nrXV9YnyKj1k5RUyiYyGVqYQn7QIXpx3MUqHlN6V9BdWuAA1nlbVmbJ7geAgwm7mS09TydioWk0RtsUm6O3wHBd95cZOzO9DZuXtUQlhmVxRXMz6LQvzf4vwx6b2drd8MuvoZ_8iFoOpWFd7je05CsJ-7UmRdLpDPlzKDK6X?width=250&height=333&cropmode=none)
+![image](https://1drv.ms/i/s!AsJfVUEHse4xhA0q0oLHq0Y-opwe?embed=1&width=250&height=333)

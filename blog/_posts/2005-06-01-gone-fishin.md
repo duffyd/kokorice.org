@@ -6,7 +6,7 @@ tags:
   - general
 ---
 
-![image](https://dm2301files.storage.live.com/y4mzWXi7l86BiMU0w9rUwdAVxSKyEHspsUyVuVuLrb4YD0Ju0JG2y7X0PzLDA0gczYhGZSp3TTd-M6y4Qnaco8PGSyN5iD4VrtTPKquuV7mQPBKTd6cB8zMTmiQc59dd-b5wO3ywx3TZ28Q4odhzGih0D4YXXKF7T8ts0WVerYbtk-VpjoM06u54HUYVRiAu4VX?width=200&height=150&cropmode=none)Finally
+![image](https://1drv.ms/i/s!AsJfVUEHse4xg3rwzhJQ6iC1Jcjp?embed=1&width=200&height=150)Finally
 got round to taking a friend up on his invitation to join him fishing
 on his boat. I was up at 5:30am and at his place by around 6:30am as we
 wanted to be on the water early. It was just as well because the sea

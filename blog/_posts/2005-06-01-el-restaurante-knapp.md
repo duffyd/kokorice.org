@@ -6,7 +6,7 @@ tags:
   - food-and-drink
 ---
 
-![image](https://dm2301files.storage.live.com/y4mc9odup2sz3YsaQg_J0e7qQjUwJbDWb7rFULbu0R-To3ihVZ1hMv17ML0uHUcwhjyX7zjrYBeO0I4vg-EGOxWZ8VbNA6bt7JjR-TlWsTfuLon8n9zbOwdPibb-5Pj10bm03_OYWGFOV3K5_BVF-qxsZQYALZ4nAOuynh2cUlm0WXazC44IUgJhLILNqHTkdTJ?width=200&height=150&cropmode=none)We invited some good friends over on Monday night to help us devour the two crayfish we’d received from [my fishing trip](/2005/06/01/gone-fishin/)
+![image](https://1drv.ms/i/s!AsJfVUEHse4xhBR_AHQMK3YzGPEK?embed=1&width=200&height=150)We invited some good friends over on Monday night to help us devour the two crayfish we’d received from [my fishing trip](/2005/06/01/gone-fishin/)
 on Sunday morning. After liasing with Mum I prepared them as follows: I
 boiled them until red, cut them in half down the middle of their belly
 and cleared out the ‘poo sack’; put some cheese on top and grilled

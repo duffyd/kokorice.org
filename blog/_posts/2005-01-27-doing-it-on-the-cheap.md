@@ -6,9 +6,7 @@ tags:
   - general
 ---
 
-[](https://1drv.ms/u/s!AsJfVUEHse4xhA1hwR0uEL13r-7t?e=e7fGxk)
-
-[![image](https://dm2301files.storage.live.com/y4mJ9lIR4xhUQwTDklJH-mEZDbAZgxeXp4vT8pjtvDns8wCjSNhJ5V72xIyBiKp9nGeFaUL-n1T-Ng6qh2o6-3PcE9GTaUwfkcfMboQnkMsSewbDwyaqKi_2O2r6fqY8wZBgL6ZiN0kfVJF9DCdnk2hfTttj0TUMItv93YBQKP3US5oI2NAmQ0ff20_-ZJ_joff?width=300&height=400&cropmode=none)](https://1drv.ms/u/s!AsJfVUEHse4xhA1hwR0uEL13r-7t?e=e7fGxk)
+![image](https://1drv.ms/i/s!AsJfVUEHse4xhBkkVeVxAXWNR1o_?embed=1&width=300&height=400)
 
 Exhibit A on my right is my office setup at home. Here’s a run-down of what it cost me:
 $0.00 Monitor (gift from customer :-)

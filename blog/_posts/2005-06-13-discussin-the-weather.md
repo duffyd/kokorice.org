@@ -7,7 +7,7 @@ tags:
   - food-and-drink
 ---
 
-![image](https://dm2301files.storage.live.com/y4mfAJ6FvlbB8sZoPKb9o5_uHLPOE01_1KYq49shagsYo8ito19mC-IEAN2kBvyBJWVUGnvoLAcqArNYLqcu2mk1HbS2msFHApn2XTty0lMjeUtdUsztggkoj0EfEeDwUyjWZCDdLSoKnJwjaMfNKnmdg9g-mHA7I_mhOg-Dd8BtttMuRUY5UNQ19-kWZsEybLC?width=117&height=44&cropmode=none)How
+![image](https://1drv.ms/i/s!AsJfVUEHse4xg3h_FpT3JbvESky9?embed=1&width=117&height=44)How
 about some anecdotal evidence? When I am out [witnessing](https://href.li/?http://www.watchtower.org/library/jt/article_05.htm) my lips are so
 numb from the cold that I find trouble speaking. Last Thursday, after
 opening the shower window to let out some of the moisture, the steam

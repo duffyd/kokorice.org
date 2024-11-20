@@ -6,7 +6,7 @@ tags:
   - general
 ---
 
-![image](https://dm2301files.storage.live.com/y4mOPrWappYKD2faFTfROpJb4DHvbSQ6AUdTgLZIrSQneJWR1qYUrUJfi_3-dX80Qeya3I-lYeWxt4Lxxr0v5HRmw7_z1-DLgq-v2QwuYAiz_nkBIGWYOC9lpuAFmrHRLTsEWrxLikhJH7ozKwSwexp1QG-poGsG94TVIukdqyQnuFwnwA4Ab0HLUf1SzQL7wEH?width=200&height=150&cropmode=none)I went eagerly anticipating the Canadian culinary
+![image](https://1drv.ms/i/s!AsJfVUEHse4xg3xTpnJWOnaIRs0w?embed=1&width=200&height=150)I went eagerly anticipating the Canadian culinary
  delights and didn’t leave disappointed, with sweet potato, butternut squash
  topped with mixed spice and sugar being a highlight along with a yummy
  cottage cheese flan. That aside, though, we did discuss the she’ll be

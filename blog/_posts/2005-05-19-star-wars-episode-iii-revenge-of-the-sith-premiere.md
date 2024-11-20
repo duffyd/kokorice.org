@@ -6,7 +6,7 @@ tags:
   - sci-fi
 ---
 
-![image](https://dm2301files.storage.live.com/y4mwOeZArZJwFX1_y1PZ1pvkc7aCopqotsjDfUbInAyhI6RLh3NjDNits5L7hiO61QfC28rpn1FtH8HU9L7KLy3dtg3GjP0RM4K0H1UoTW9_2XbmDN6_pLl-Ah_p0jT3d1kp5ryg-nELQrUTdU2JI9qfQUn3KFwCN5S_361yUR0e6DxeSWcHIJ1ISLnsWDFf-nc?width=200&height=150&cropmode=none)10 of us Star Wars freaks (well some of us anyway) went to the very 1st
+![image](https://1drv.ms/i/s!AsJfVUEHse4xhCJt4w4ZtCRVqj9_?embed=1&width=200&height=150)10 of us Star Wars freaks (well some of us anyway) went to the very 1st
 screening of EP3 worldwide this morning at just after midnight. IMHO
 the movie was the best of all the Star Wars movies, with mind-blowing
 special effects and action that left me feeling pretty exhausted.

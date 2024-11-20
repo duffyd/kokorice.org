@@ -11,7 +11,7 @@ tags:
 for 6 months to teach the Bible. The evening was a formal affair and
 consisted of an assortment of yummy dishes, ballroom/latin/rock'n'roll
 dancing, and some [chinwag](https://href.li/?http://www.allwords.com/word-chinwag.html).
-- ![image](https://dm2301files.storage.live.com/y4mqa_NSCoqOlZ2_VQetxv_no7ueocHd2nyA3S91Qa9nOWea4-1rzlgvDHSEewvKmdfbB72b9kqLxkdZUnTQxiY3WOmdBKafp5Bov2BMjl-AYjST7tYPozvZG5weW0g_3dtQ4knxLnCPwjG74A2tTtjjJ6GgJA-N5_mNlXhdFOGwrFCJPTieZAetS9BQUtIM2Q3?width=128&height=96&cropmode=none)**Kaikoura Trip**.
+- ![image](https://1drv.ms/i/s!AsJfVUEHse4xg3nVS6_DK7EXu_i1?embed=1&width=128&height=96)**Kaikoura Trip**.
 Miho, Margaret Stace, and I headed up to Kaikoura for 4 days’ camping.
 A friend who was camping with us, Barry MacHarper, had a boat so we
 headed out on that a few times and got a good haul of , [kina](https://href.li/?http://en.wikipedia.org/wiki/Sea_urchin), [ling](https://href.li/?http://www.teara.govt.nz/1966/L/Ling/Ling/en), [blue cod](https://href.li/?http://www.teara.govt.nz/1966/C/CodBlue/CodBlue/en), and [perch](https://href.li/?http://en.wikipedia.org/wiki/Perch). We all enjoyed the abundance of seafood and I got in a lot of fishing while we were there.
