@@ -1,6 +1,11 @@
 <template>
   <div id="base-list-layout">
     <div class="ui-posts" itemscope itemtype="http://schema.org/Blog">
+      <template v-if="homePage()">
+        <h1>Welcome to my corner of the web</h1>
+        <h2>I'm Tim and here I write about Tech, Food, Travel, Life</h2>
+      </template>
+
       <article
         v-for="page in pages"
         :key="page.key"
@@ -141,6 +146,10 @@ export default {
       if (!tags || Array.isArray(tags)) return tags
       return [tags]
     },
+
+    homePage() {
+      return this.$route.path == "/" || this.$route.path == "/home"
+      }
   },
 }
 </script>
